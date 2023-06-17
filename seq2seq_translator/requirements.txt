@@ -1,0 +1,5 @@
+pytorch
+spacy
+torchtext
+torchdata
+datasets
